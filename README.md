@@ -214,7 +214,6 @@ nav a.active{
 
 index.html
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -265,7 +264,6 @@ index.html
 
 menu.html
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -375,7 +373,6 @@ menu.html
 
 admin.html
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -449,7 +446,6 @@ admin.html
 
 contact.html
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -509,7 +505,8 @@ contact.html
 
 ## OUTPUT:
 ![alt text](home.png)
-![alt text](home.png)
+<img width="1919" height="1138" alt="menu" src="https://github.com/user-attachments/assets/a5e84ff4-57a3-4a68-8630-f72b777a1512" />
+
 ![alt text](admin.png)
 ![alt text](contact.png)
 
